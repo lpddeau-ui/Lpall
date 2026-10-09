@@ -111,7 +111,7 @@ VITAE</b></i></font></font></font></p>
 </ul>
 <p class="western"><br/>
 </p>
-<h2 id="employment">EMPLOYMENT HISTORY: Total Experience: 39 1/2 Years</h2>
+<h2 id="employment">EMPLOYMENT HISTORY: Total Experience: 40 Years</h2>
 <p class="western"><br/>
 </p>
 <table cellpadding="7" cellspacing="0" width="619">
